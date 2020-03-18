@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: my-package
+Version: 0.1
+Summary: Reinforcement Learning from Jannik Zürn Medium Blog
+Home-page: https://github.com/vutgithub/reinforcement_learning_jannik_zurn
+Author: Thanh Vu
+Author-email: tvu@xebia.fr
+License: Xebia
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
