@@ -61,6 +61,8 @@ class Robot:
 class RoadEnv(gym.Env, utils.EzPickle):
 
     def __init__(self):
+        super(RoadEnv, self).__init__()
+
         from gym.envs.classic_control import rendering
 
         self.viewer = rendering.SimpleImageViewer()
